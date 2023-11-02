@@ -22,3 +22,19 @@ Linking Writing Processes to Writing Quality コンペのリポジトリ
 - nb01_writing_quality.ipynb
 - notebookはDrop Nanまで完了
 - 次はBaselineだね。モデルを作って最後にsubmitまでいく流れだね。
+
+### 20231102
+nb01
+- Baselineの写経
+- Google Coraboratryはcatboostはpipしないといけないんだね。
+- Baselineの写経完了
+- 次はData preparationの節
+- Data preparationの写経完了
+- 次はSplit and Trainの節
+- ここで各モデルのベストパラメータを見つけているんだね。
+
+Discussion
+- [Probably a small bug in the training data](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/452264)
+- データにおかしなところがあると書いてある。明日試しに確認してみようかな。
+- このコメントに返信しようかな「確かに不自然な動きに見えます。他のレコードも確認すべきでしょうか？それとも、誤差として容認すべきでしょうか？」これを訳しますかね。
+- Discussionを見ていると、データ内容の解釈にも役立つかもね。
