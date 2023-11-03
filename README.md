@@ -38,3 +38,11 @@ Discussion
 - データにおかしなところがあると書いてある。明日試しに確認してみようかな。
 - このコメントに返信しようかな「確かに不自然な動きに見えます。他のレコードも確認すべきでしょうか？それとも、誤差として容認すべきでしょうか？」これを訳しますかね。
 - Discussionを見ていると、データ内容の解釈にも役立つかもね。
+
+### 20231103
+nb01
+- 各モデルの最適パラメータの探索
+- LightBGMのearly_stoppingの仕様が違うらしいね。
+- [LightGBMのearly_stoppingの仕様が変わったので、使用法を調べてみた](https://qiita.com/c60evaporator/items/2b7a2820d575e212bcf4)
+- first submit実施
+- internet connectionを切断したり、設定が面倒だったね。
