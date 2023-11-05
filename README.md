@@ -46,3 +46,26 @@ nb01
 - [LightGBMのearly_stoppingの仕様が変わったので、使用法を調べてみた](https://qiita.com/c60evaporator/items/2b7a2820d575e212bcf4)
 - first submit実施
 - internet connectionを切断したり、設定が面倒だったね。
+
+Discussion
+- [Link Writing Simple LGBM baseline](https://www.kaggle.com/code/hengzheng/link-writing-simple-lgbm-baseline)
+- 次はこのnotebookを参考にしてみようかな。
+- コメントしてみた。
+- https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451081#2510956
+- 本当にくだらないコメントだけど、これからDiscussionに慣れていこう。
+
+### 20231104
+nb02
+- [Easy Feature Analysis](https://www.kaggle.com/code/junjitakeshima/wrtqlty-easy-feature-analysis-eng)
+- このnotebookを写経してみよう。日本人の方のnotebookかつ、説明もしっかりしているので、参考になりそう。
+- 日本語の人のnotebookを写経すると、理解度は段違いだね。
+- 簡単なモデル計算でもいろんなことが分かるんだね。
+- エッセイの文字数が多いと、スコアに大きく響く傾向
+- down_timeが小さいほど、つまり取り掛かる時間が早い程、スコアが良く
+- up_timeが大きいほど、つまりエッセイが完成する時間が遅い程、スコアが良い。
+- まあ、色々見ていると、エッセイの中身をどれだけデータに入れるかが鍵になりそうだね。
+
+### 20231106
+- 今日で写経2回目は完了になるかな〜
+- 次はessayの難易度を統合して、submitしてみよう。
+
