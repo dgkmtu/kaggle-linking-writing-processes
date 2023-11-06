@@ -68,4 +68,21 @@ nb02
 ### 20231106
 - 今日で写経2回目は完了になるかな〜
 - 次はessayの難易度を統合して、submitしてみよう。
+- nb03ではnb01とnb02を統合してsubmitする。
+- その前にnb01及びnb02の前処理について整理しよう。
+- nb01
+- summary_time : エッセイを書き上げるまでの合計時間
+- start_pause : エッセイを書き始めた時間
+- enter_click : Enterキーをクリックした回数
+- space_click : Spaceキーをクリックした回数
+- backspace_click : Backspaceキーをクリックした回数
+- symbol_length : エッセイを書き上げた時点のカーソル位置
+- text_length : エッセイの文字数
+- nonproduction_feature : 入力がない場合の動作の割合
+- input_feature : 入力がある場合の動作の割合
+- remove_feature : 削除する動作の割合
+- mean_action_time : 動作時間の平均
+- replace_feature : Replaceの動作をした回数
+- text_change_unique : 文章を変えたユニーク数
+- sentence_size_feature : 1文の長さ
 
