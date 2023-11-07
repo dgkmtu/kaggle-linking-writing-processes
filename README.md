@@ -1,6 +1,16 @@
 # kaggle-linking-writing-processes
 Linking Writing Processes to Writing Quality コンペのリポジトリ
 
+- directory tree
+```
+Kaggle-Cornell-Birdcall-Identification
+├── README.md
+├── data         <---- gitで管理するデータ
+├── nb           <---- jupyter lab で作業したノートブック
+└── src          <---- .ipynb 以外のコード
+
+```
+
 ## Memo
 - term
   - nb: ノートブック
@@ -86,3 +96,22 @@ nb02
 - text_change_unique : 文章を変えたユニーク数
 - sentence_size_feature : 1文の長さ
 
+### 20231107
+- nb02の前処理を書き出そうかな。
+- 処理が共通するものは、名前を統一しよう
+- nb02
+- (共通)start_pause : エッセイを書き始めた時間
+- end_pause : エッセイを書き終えた時間
+- (共通)mean_action_time : 動作時間の平均
+- sum_action_time : 動作時間の合計
+- max_action_time : 動作時間の最終時間
+- (共通)text_length : エッセイの文字数
+- text_length_mean : エッセイの文字列の平均(空白行も含めているので微妙な変数)
+- (共通)symbol_length : エッセイを書き上げた時点のカーソル位置
+- symbol_length_mean : カーソル位置の平均
+- Inpu : input処理をしたときのフラグ
+- Move : input処理をしたときのフラグ
+
+- nb01とnb02の統合をやってみたけど、何も考えずにやってしまうと上手くいかないね〜
+- 文書をdecodeする過程で少し操作しているみたいだ。
+- 変数がややこしすぎて混乱したので、もう一度冷静になって明日考え直してみよう。
