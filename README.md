@@ -7,7 +7,7 @@ Kaggle-Cornell-Birdcall-Identification
 ├── README.md
 ├── data         <---- gitで管理するデータ
 ├── nb           <---- jupyter lab で作業したノートブック
-└── src          <---- .ipynb 以外のコード
+└── src          <---- 参考にしたのノートブック
 
 ```
 
@@ -115,3 +115,13 @@ nb02
 - nb01とnb02の統合をやってみたけど、何も考えずにやってしまうと上手くいかないね〜
 - 文書をdecodeする過程で少し操作しているみたいだ。
 - 変数がややこしすぎて混乱したので、もう一度冷静になって明日考え直してみよう。
+
+### 20231108
+- nb03
+- nb02のtext_change関数から統合する
+- やはりテストデータになると、エッセイ難易度がうまく反映されていないな
+- nb02の元のnotebookとさらに元のnotebookを確認するか
+- 元のnotebookを確認したら、こちらもエッセイ難易度がうまく反映されていない
+- 元の元のnotebookを確認するしかないね〜
+- ただし、その前にこっちのnotebookを統合して進みましょうか。nb04を新規作成
+[Link Writing Simple LGBM baseline](https://www.kaggle.com/code/hengzheng/link-writing-simple-lgbm-baseline)
