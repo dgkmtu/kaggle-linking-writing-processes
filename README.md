@@ -125,3 +125,9 @@ nb02
 - 元の元のnotebookを確認するしかないね〜
 - ただし、その前にこっちのnotebookを統合して進みましょうか。nb04を新規作成
 [Link Writing Simple LGBM baseline](https://www.kaggle.com/code/hengzheng/link-writing-simple-lgbm-baseline)
+
+### 20231109
+nb05
+- nb01とnb04を統合してnb05を作成する。
+- 特徴量の作成はnb04に従い、学習はnb01の方法に従う。
+- 計算かなりかかりそうだね〜GPU使わないといけないかな〜
