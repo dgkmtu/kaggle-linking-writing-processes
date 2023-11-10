@@ -131,3 +131,14 @@ nb05
 - nb01とnb04を統合してnb05を作成する。
 - 特徴量の作成はnb04に従い、学習はnb01の方法に従う。
 - 計算かなりかかりそうだね〜GPU使わないといけないかな〜
+
+### 20231110
+nb05
+- RAM満杯になっちゃって、接続しなおしちゃうのか
+- 無駄な変数とかを消去する工夫をしないとかな
+- 2回目のsubmission
+- Public Scoreは0.634で648位か〜
+- まあ、もうちょい改善できる点はあるので、少しnb01とnb04の統合を進めよう。
+- 欠損値消去をやってみようかね
+- [Towards TF-IDF in logs features](https://www.kaggle.com/code/olyatsimboy/towards-tf-idf-in-logs-features)
+- 次はこのnotebookを参考にしよう。
