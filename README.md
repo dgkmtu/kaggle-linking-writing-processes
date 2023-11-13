@@ -142,3 +142,11 @@ nb05
 - 欠損値消去をやってみようかね
 - [Towards TF-IDF in logs features](https://www.kaggle.com/code/olyatsimboy/towards-tf-idf-in-logs-features)
 - 次はこのnotebookを参考にしよう。
+
+### 20231113
+nb06
+- 写経の続き
+- Google ColaboratryのシステムRAMが溢れてしまうな〜
+- EDAをコメントアウトしたら、なんとか処理できた。
+- まあ、処理は続けられそう。
+- Kaggleで勝つでKFoldの箇所を少しみた。処理としては計算時間がかかりそうだね〜少し簡単なモデルを作ってみるかな。
