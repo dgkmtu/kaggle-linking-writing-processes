@@ -156,8 +156,17 @@ nb06
 - 写経の続き
 - 写経は今日で完了しそうだね。KFoldの構造はなんとなく理解できてきたぞ。
 - nb06のsubmissionまでいこう。
-- [LightAutoML NN test](https://www.kaggle.com/code/alexryzhkov/lightautoml-nn-test)
+- [LGBM and NN on sentences](https://www.kaggle.com/code/alexryzhkov/lgbm-and-nn-on-sentences)
 - このノートブックのスコアが良かったとのこと
 - nb07ではこのノートブックの写経を次にしてみようかな。
 - おおっnb06のスコアが0.603で最高だった。
 - よく分からんなあ〜これでいけるのか。nb01,nb04,nb06を整理したい。
+
+### 20231115
+nb07
+- 写経を始める。
+- 対象は[LGBM and NN on sentences](https://www.kaggle.com/code/alexryzhkov/lgbm-and-nn-on-sentences)
+- essayを連結した情報も使用するんだね。
+- これまでの情報の統合みたいなノートブックかなぁ。
+
+### 20231116
