@@ -169,4 +169,10 @@ nb07
 - essayを連結した情報も使用するんだね。
 - これまでの情報の統合みたいなノートブックかなぁ。
 
-### 20231116
+### 20231120
+- 以下2つのNotebookを統合して、結果を比較してみた。
+- [LGBM and NN on sentences](https://www.kaggle.com/code/alexryzhkov/lgbm-and-nn-on-sentences)
+- [Feature Engineering: Sentence & paragraph features](https://www.kaggle.com/code/hiarsl/feature-engineering-sentence-paragraph-features/notebook)
+- これを統合してみると、前処理は同じことをしていてモデリングの違いのみになっている。
+- 新たに、スコアの良い結果が[LB 0.585 New best public score!](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/456395)のコメントが出てきた。
+- これをまずは動かしてみて、中身をみてみようかな。
