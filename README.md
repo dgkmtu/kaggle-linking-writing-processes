@@ -176,3 +176,6 @@ nb07
 - これを統合してみると、前処理は同じことをしていてモデリングの違いのみになっている。
 - 新たに、スコアの良い結果が[LB 0.585 New best public score!](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/456395)のコメントが出てきた。
 - これをまずは動かしてみて、中身をみてみようかな。
+nb09
+- notebookの写経をし始めた。このコピー競争から抜け出すためには、新しいモデルか新しい特徴量を見つけないといけないよね。
+- まずは写経を完了しよう。
