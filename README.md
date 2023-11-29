@@ -196,3 +196,9 @@ nb10
 - ここからまたスコアは上がっていくので、振り切られないように毎日状況は確認しよう。
 - その代わりに、nb11では日本語でnotebookの公開をやってみようかしら
 - 参考にするnotebookは[LGBM and NN on sentences](https://www.kaggle.com/code/alexryzhkov/lgbm-and-nn-on-sentences)を日本語にしてみよう。
+
+### 20231129
+nb11
+- notebookの解説を日本語で執筆中
+- きちんと処理を見ていくと、やっていることの解像度が上がってくるね。
+- discussionなどの動向は気にしつつ、このnotebookは完成させよう。
